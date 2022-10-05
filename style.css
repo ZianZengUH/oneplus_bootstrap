@@ -1,0 +1,102 @@
+.logo_style {
+  padding-left: 3.3em;
+}
+
+.navbar_style {
+  height: 3.15em;
+}
+
+.navbar-nav li{
+  padding-left: 11px;
+  padding-right: 11px;
+}
+
+.nav_group1{
+  padding-left: 30em;
+}
+
+
+.carousel-caption {
+  position: relative;
+  left: 58px;
+  bottom: 640px;
+  text-align: left;
+
+}
+
+.subtitle1 {
+  font-family: 'Open Sans', serif;
+  font-weight:300;
+  padding-bottom: 10px;
+}
+
+.subtitle2 {
+  font-family: 'Open Sans', serif;
+  font-weight:400;
+  padding-top: 0px;
+}
+
+button.btnStyle {
+  background-color: white;
+  color: black;
+  position: absolute;
+  top: 645px;
+  left: 65px;
+  width: 315px;
+  font-family: 'Open Sans', serif;
+  font-weight:400;
+  font-size: 0.9rem;
+}
+button.btnStyle:hover {
+  background-color: white;
+}
+
+.icon_style {
+  font-size: 1.2em;
+}
+
+footer {
+  background-color: white;
+  font-family: 'Open Sans', serif;
+  font-weight:400;
+}
+
+.footer_heading {
+  color: black;
+  padding-bottom: 1em;
+}
+
+.footer_items {
+  color: grey;
+  padding-top: 0.4em;
+  padding-bottom: 0.4em;
+}
+
+.footer_images {
+
+}
+
+.footer_icons{
+  color: gray;
+  font-size: 1.3rem;
+}
+
+.phone_num_style {
+  font-family: 'Open Sans', serif;
+  font-weight: 500;
+  color: #0099CC;
+  font-size: 17px;
+}
+
+#footer1{
+  display: inline-block;
+  margin-left: 4em;
+}
+#footer2{
+  display: inline-block;
+  padding-left: 22em;
+}
+#footer3{
+  display: inline-block;
+}
+
